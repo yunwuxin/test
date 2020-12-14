@@ -34,7 +34,6 @@ $ git diff -b
 diff --git a/hello.rb b/hello.rb
 index ac51efd..e85207e 100755
 --- a/hello.rb
-+++ b/hello.rb
 @@ -1,7 +1,7 @@
 #! /usr/bin/env ruby
 
